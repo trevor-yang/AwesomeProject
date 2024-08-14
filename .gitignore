@@ -72,3 +72,9 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# @react-native-esbuild's local cache directory for development environment
+.rne
+ 
+# swc plugins
+.swc
